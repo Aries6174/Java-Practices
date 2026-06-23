@@ -1,0 +1,9 @@
+{
+    "js/ts.preferences.jsxAttributeCompletionStyle": "none",
+    "js/ts.suggest.classMemberSnippets.enabled": false,
+    "js/ts.suggest.includeAutomaticOptionalChainCompletions": false,
+    "js/ts.suggest.includeCompletionsForImportStatements": false,
+    "less.completion.triggerPropertyValueCompletion": false,
+    "css.completion.triggerPropertyValueCompletion": false,
+    "scss.completion.triggerPropertyValueCompletion": false
+}
